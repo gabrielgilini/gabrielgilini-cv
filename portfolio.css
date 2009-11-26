@@ -1,0 +1,18 @@
+.yui-u p {
+    text-align:center;
+}
+
+.sshots {
+    position: relative;
+    width: 550px;
+    height: 320px;
+    overflow: hidden;
+}
+
+.sshots .first {
+    z-index: 1;
+}
+
+.sshots img {
+    position: absolute;
+}
