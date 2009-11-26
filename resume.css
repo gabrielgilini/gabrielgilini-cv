@@ -70,3 +70,6 @@ a#pdf:hover { background: #222; }
 /* --// override to force 1/8th width grids -- */
 .resume .yui-gf .yui-u{width:80.2%;}
 .resume .yui-gf div.first{width:12.3%;}
+
+.media { margin-top: 4px; }
+.media p { padding: 0; }
